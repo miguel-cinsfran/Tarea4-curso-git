@@ -6,3 +6,5 @@ En estas clases aprendí sobre:
 - Firmar commits con GPG.
 - Uso de stash para guardar trabajo temporal.
 - Configuración y uso de claves SSH para autenticación.
+
+Buen trabajo
